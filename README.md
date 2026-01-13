@@ -5,7 +5,7 @@ Automatically build and update [Aseprite](https://www.aseprite.org/) from source
 ## One-Command Install
 
 ```bash
-curl -sL https://raw.githubusercontent.com/Rani367/aseprite-builder/main/update-aseprite.sh | bash
+curl -sL https://github.com/Rani367/aseprite-builder/raw/main/update-aseprite.sh | bash
 ```
 
 ## Manual Install
